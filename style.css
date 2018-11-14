@@ -1,0 +1,106 @@
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+  line-height: 2px;
+  color: #000000;
+  background-image: url(images/milkyway.jpg);
+  background-attachment: fixed;
+  margin: 5px;
+  padding: 0px;
+  }
+
+h1 {
+  font-family: 'Slabo 27px', serif;
+  color: #000000;
+  font-size: 27px;
+  }
+
+h2 {
+  font-family: 'Slabo 27px', serif;
+  color: #000000;
+  font-size: 20px;
+  }
+
+p {
+  font-family: 'Lato', serif;
+  color: grey;
+  font-size: 16px;
+  }
+
+
+i {
+  height : 30px;
+  }
+
+a {
+  text-decoration: none;
+  }
+
+#profile-picture {
+  border-radius: 50%;
+  height: 120
+  }
+
+
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+  padding-left: 0px;
+  }
+
+.container {
+  width: 800px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+  }
+
+.head-card {
+  background: grey;                          /* White background */
+  padding: 30px;                              /* Internal space */
+  border-radius: 4px;                         /* Small radius */
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  border: 1px solid rgba(0, 0, 0, 0.1);       /* OR subtle border */
+  }
+
+.head-card > p {
+  font-family: 'Lato', serif;
+  color: white;
+  font-size: 16px;
+  }
+
+.relatives-card {
+  background: white;                          /* White background */
+  padding: 30px;                              /* Internal space */
+  border-radius: 4px;                         /* Small radius */
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  border: 1px solid rgba(0, 0, 0, 0.1);       /* OR subtle border */
+  }
+
+.relatives-card > p {
+  font-family: 'Lato', serif;
+  color: white;
+  font-size: 18px;
+  }
+
+.content-card {
+  background: white;                          /* White background */
+  padding: 30px;                              /* Internal space */
+  border-radius: 4px;                         /* Small radius */
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  border: 1px solid rgba(0, 0, 0, 0.1);       /* OR subtle border */
+  }
+
+.content-image {
+  height: 300px;
+  width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
